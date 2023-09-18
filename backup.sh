@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# Put this script to run in your .profile, so that it can run every time your PC starts
 base_src_dir="/home/eduardovitor"
 base_dst_dir="file:///home/eduardovitor/MEGAsync/Backups"
 keyword="-back"
